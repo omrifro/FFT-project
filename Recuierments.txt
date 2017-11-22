@@ -1,0 +1,21 @@
+Dear Student,
+
+You are required to prepare a short "Project Requirements Document".
+Please prepare one by 24.11.17 and submit it to me  by e-mail.
+An example of such a document can be found in our web site in the following
+location :
+
+http://www.ee.technion.ac.il/labs/vlsi/Upload/Administration/PrjReqTemplate.doc
+
+Please note that this is simply a template and you should prepare a similar
+document that suits your particular project.
+
+- You can choose to write it in Hebrew if you please.
+- You must adapt the example to suit your particular project.
+- You can elaborate on any section you please.
+
+Pls co-ordinate this with your partner and supervisor.
+
+Thank you and best regards,
+
+Goel.
